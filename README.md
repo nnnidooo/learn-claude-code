@@ -31,7 +31,7 @@ Also in this repo:
 ## How to use this repo
 
 ```sh
-git clone <this-repo-url>
+git clone https://github.com/nnnidooo/learn-claude-code.git
 cd learn-claude-code
 ```
 
