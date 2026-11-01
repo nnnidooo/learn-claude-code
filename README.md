@@ -4,6 +4,8 @@ A hands-on course for setting up and using [Claude Code](https://code.claude.com
 
 Each lesson is short, ends with a **Try it** exercise, and builds on the one before.
 
+📖 **Read it online:** <https://nnnidooo.github.io/learn-claude-code/>
+
 ## Who this is for
 
 - You're comfortable typing a few commands, or willing to learn ([Lesson 0](lessons/00-terminal-basics.md) covers the basics).
