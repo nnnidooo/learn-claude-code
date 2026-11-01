@@ -2,4 +2,4 @@ title: Learn Claude Code
 description: A hands-on course for setting up and using Claude Code in the terminal
 theme: jekyll-theme-cayman
 include:
-  - examples/.mcp.json
+  - .mcp.json
